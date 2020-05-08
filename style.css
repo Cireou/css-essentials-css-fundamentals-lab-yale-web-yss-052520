@@ -26,5 +26,6 @@ figcaption {
 
 #details {
   background: red;
-  display: inline;
 }
+
+#details div

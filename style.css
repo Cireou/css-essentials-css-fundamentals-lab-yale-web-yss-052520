@@ -13,6 +13,10 @@ img {
   margin: auto;
 }
 
+figcaption {
+  text-align: center;
+}
+
 #featured-property p{
   display: block;
   margin: auto;

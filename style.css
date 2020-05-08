@@ -31,4 +31,5 @@ figcaption {
 #details div {
   color: white;
   display: inline-block;
+  position: absolute;
 }

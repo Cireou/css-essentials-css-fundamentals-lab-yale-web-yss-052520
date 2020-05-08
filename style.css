@@ -30,8 +30,3 @@ figcaption {
   justify-content: space-around;
   background: red;
 }
-
-#details div {
-  color: white;
-  display: inline-block;
-}

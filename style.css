@@ -24,3 +24,7 @@ figcaption {
   width: 75%;
   color: red;
 }
+
+details {
+  background: red;
+}

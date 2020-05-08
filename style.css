@@ -22,9 +22,8 @@ figcaption {
   margin: auto;
   text-align: center;
   width: 75%;
-  color: red;
 }
 
-details {
+#details {
   background: red;
 }

@@ -26,6 +26,7 @@ figcaption {
 }
 
 #details {
+  display: flex;
   background: red;
 }
 

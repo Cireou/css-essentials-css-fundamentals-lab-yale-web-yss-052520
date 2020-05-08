@@ -27,11 +27,11 @@ figcaption {
 
 #details {
   display: flex;
+  justify-content: 
   background: red;
 }
 
 #details div {
-  flex-flow: ;
   color: white;
   display: inline-block;
 }

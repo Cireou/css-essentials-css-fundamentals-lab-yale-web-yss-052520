@@ -27,7 +27,7 @@ figcaption {
 
 #details {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   background: red;
 }
 

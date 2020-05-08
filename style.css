@@ -16,3 +16,7 @@ img {
 figcaption {
   text-align: center;
 }
+
+p {
+  max-width: 50%;
+}

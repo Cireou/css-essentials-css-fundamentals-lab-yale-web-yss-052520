@@ -21,5 +21,6 @@ figcaption {
   display: block;
   margin: auto;
   text-align: center;
+  width: 80%;
   color: red;
 }

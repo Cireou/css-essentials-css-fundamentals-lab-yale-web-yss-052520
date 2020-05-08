@@ -20,4 +20,5 @@ figcaption {
 p#featured-properties {
   display: block;
   text-align: center;
+  color: red;
 }
